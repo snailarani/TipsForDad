@@ -1,4 +1,4 @@
-# Git/GitHub Commands
+# About Git/GitHub
 
 ## Intro
 
@@ -28,3 +28,15 @@ Then, in the terminal, use the command: `git init`
 This will make Git track your folder. Now you can make changes, make commits, and it will all be tracked by Git.
 
 #### Creating a Repo from GitHub
+
+Log into your github account. Select the '+' sign on the banner at the top of the page. Then select 'new repository'. From there you can give your repo a name, and set some configurations.
+
+To clone this repository onto your local device (so you can start adding code), select the drop down next to the blue button which says 'code'. This will give you a link to the repo.
+
+In your terminal, navigate to where you would like to store this repo. Then use the command: `git clone [link_to_repo]`.
+
+Now you can start adding code to this repo from your own device.
+
+<!-- Video example -->
+
+## Git Commands
